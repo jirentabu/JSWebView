@@ -15,7 +15,6 @@
 		1D2DAD131B955B2900F7884D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1D2DAD111B955B2900F7884D /* LaunchScreen.xib */; };
 		1D2DAD1F1B955B2900F7884D /* JSWebViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D2DAD1E1B955B2900F7884D /* JSWebViewDemoTests.m */; };
 		1D2DAD311B95665C00F7884D /* NSDictionary+QueryString.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D2DAD2B1B95665C00F7884D /* NSDictionary+QueryString.m */; };
-		1D2DAD321B95665C00F7884D /* NSString+QueryString.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D2DAD2D1B95665C00F7884D /* NSString+QueryString.m */; };
 		1D2DAD331B95665C00F7884D /* ios.invoke.js in Resources */ = {isa = PBXBuildFile; fileRef = 1D2DAD2E1B95665C00F7884D /* ios.invoke.js */; };
 		1D2DAD341B95665C00F7884D /* JSWebView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D2DAD301B95665C00F7884D /* JSWebView.m */; };
 /* End PBXBuildFile section */
@@ -46,8 +45,6 @@
 		1D2DAD1E1B955B2900F7884D /* JSWebViewDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JSWebViewDemoTests.m; sourceTree = "<group>"; };
 		1D2DAD2A1B95665C00F7884D /* NSDictionary+QueryString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+QueryString.h"; sourceTree = "<group>"; };
 		1D2DAD2B1B95665C00F7884D /* NSDictionary+QueryString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+QueryString.m"; sourceTree = "<group>"; };
-		1D2DAD2C1B95665C00F7884D /* NSString+QueryString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+QueryString.h"; sourceTree = "<group>"; };
-		1D2DAD2D1B95665C00F7884D /* NSString+QueryString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+QueryString.m"; sourceTree = "<group>"; };
 		1D2DAD2E1B95665C00F7884D /* ios.invoke.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ios.invoke.js; sourceTree = "<group>"; };
 		1D2DAD2F1B95665C00F7884D /* JSWebView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSWebView.h; sourceTree = "<group>"; };
 		1D2DAD301B95665C00F7884D /* JSWebView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSWebView.m; sourceTree = "<group>"; };
@@ -148,8 +145,6 @@
 			children = (
 				1D2DAD2A1B95665C00F7884D /* NSDictionary+QueryString.h */,
 				1D2DAD2B1B95665C00F7884D /* NSDictionary+QueryString.m */,
-				1D2DAD2C1B95665C00F7884D /* NSString+QueryString.h */,
-				1D2DAD2D1B95665C00F7884D /* NSString+QueryString.m */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
@@ -258,7 +253,6 @@
 				1D2DAD311B95665C00F7884D /* NSDictionary+QueryString.m in Sources */,
 				1D2DAD0B1B955B2900F7884D /* ViewController.m in Sources */,
 				1D2DAD341B95665C00F7884D /* JSWebView.m in Sources */,
-				1D2DAD321B95665C00F7884D /* NSString+QueryString.m in Sources */,
 				1D2DAD081B955B2900F7884D /* AppDelegate.m in Sources */,
 				1D2DAD051B955B2900F7884D /* main.m in Sources */,
 			);
