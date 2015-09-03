@@ -22,7 +22,7 @@
 ```Objective-C
 #import "JSWebView.h"
 ```
-3. 修改UIWebView为JSWebView
+3. ViewController中添加JSWebView，与添加UIWebView一致
 
 4. ViewController实现JSWebViewInvokeHandler协议
 ```Objective-C
